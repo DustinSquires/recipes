@@ -14,9 +14,11 @@ Dir["./recipes/*.txt"].each do |file_path|
 end
 
 
-groceryList = GroceryList.new(recipe_book.values)
-aisles = AisleList.new("aisles.txt") # attribute aisle to number in master list of current store
-puts aisles.get_aisle_number("chili powder")
+aisles = AisleList.new("aisle_key.txt") # attribute aisle to number in master list of current store
+groceryList = GroceryList.new(recipe_book.values, aisles)
+# puts aisles.get_aisle_number("chili powder")
+
+groceryList.print_by_aisle
  
 
 

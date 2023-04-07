@@ -7,6 +7,7 @@ canned - 2
 crackers - 3
 chips - 3
 drinks - 4
+spices - 4
 sweets - 5
 bread - 6
 snacks - 6
@@ -17,3 +18,15 @@ frozen pizzas - 9
 frozen treats - 9
 dairy - 10
 chili powder - 4
+beef - 10
+onion - 1
+cumin - 4
+sugar - 4
+tomato paste - 2
+garlic powder - 4
+beef broth - 2
+petite diced tomatoes - 2
+red kidney beans - 2
+tomato sauce - 2
+salt - 4
+pepper - 4
