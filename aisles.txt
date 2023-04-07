@@ -1,0 +1,19 @@
+produce - 1
+international - 1
+condiments -  1
+pasta - 2
+soups - 2
+canned - 2
+crackers - 3
+chips - 3
+drinks - 4
+sweets - 5
+bread - 6
+snacks - 6
+etc - 7
+frozen veggies - 8
+frozen breads - 8
+frozen pizzas - 9
+frozen treats - 9
+dairy - 10
+chili powder - 4

@@ -1,0 +1,11 @@
+class GroceryList
+  def initialize(recipes)
+    @recipeNames, @list, @totalCalories, 
+  end
+  def to_s()
+    "#{quantity} #{measurement} #{name}"
+  end
+
+  private
+  attr_reader :quantity, :measurement, :name
+end
